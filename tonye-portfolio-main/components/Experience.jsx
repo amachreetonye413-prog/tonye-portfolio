@@ -8,7 +8,7 @@ function Experience() {
 
   const experiences = [
     {
-      title: "IT SUPPORT INTERN",
+      title: "IT SUPPORT",
       company: "NIGERIAN MARITIME AND SAFETY ORGANIZATION",
       period: "2026 - Present",
       description: "Assisted in providing technical support across the organization by troubleshooting hardware, software, and network-related issues. Supported the installation, configuration, and maintenance of computer systems, ensuring optimal performance and minimal downtime.",
