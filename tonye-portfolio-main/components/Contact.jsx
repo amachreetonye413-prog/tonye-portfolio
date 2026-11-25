@@ -22,7 +22,7 @@ function Contact() {
     { 
       name: 'GitHub', 
       icon: Github, 
-      url: 'https://github.com/Jiggy40-cpu',
+      url: 'https://github.com/amachreetonye413-prog',
      
     },
   ];
@@ -115,7 +115,7 @@ function Contact() {
         {/* Footer Info */}
         <div className="mt-20 pt-12 border-t border-gray-300 text-center animate-fade-in-up" style={{ animationDelay: '0.4s' }}>
           <p className="text-gray-600 mb-2">
-            Available for freelance projects and full-time opportunities
+            Available for internship, graduate trainee roles and full-time opportunities
           </p>
           <p className="text-sm text-gray-500">
           </p>
