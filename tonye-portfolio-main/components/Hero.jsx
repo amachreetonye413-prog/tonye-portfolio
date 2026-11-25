@@ -14,7 +14,9 @@ function Hero() {
 
         {/* Subtitle/Description */}
         <p className="text-lg md:text-xl text-gray-600 mb-12 leading-relaxed max-w-3xl">
-          A builder who blends full-stack development and data analytics, creating intelligent systems that feel intuitive, not complex. Specializing in data-driven and AI-powered applications that transform insights into seamless, human-centered experiences.
+          A data-driven problem solver passionate about transforming raw data into meaningful insights. 
+          I combine Python, SQL, data analytics, and machine learning to uncover patterns, solve 
+          real-world problems, and build intelligent solutions that support better decision-making.
         </p>
 
         {/* CTA Buttons */}
