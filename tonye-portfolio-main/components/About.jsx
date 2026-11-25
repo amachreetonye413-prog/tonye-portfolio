@@ -16,14 +16,13 @@ function About() {
         {/* About Content */}
         <div className="space-y-6">
           <p className="text-lg text-gray-600 leading-relaxed">
-            I'm a Full-Stack Developer with a strong interest in Data Science and Artificial Intelligence. 
-            I build responsive, scalable web applications and enjoy integrating AI-powered solutions to solve real-world problems.
+            I'm a Software Engineering graduate from Babcock University with a strong interest in using data
+             to solve problems, uncover insights and support better decision-making.
           </p>
           
           <p className="text-lg text-gray-600 leading-relaxed">
-            I'm passionate about creating human-centric technology and continuously improving my skills with modern tools. 
-            My approach combines technical expertise with creative problem-solving to deliver solutions that are both 
-            powerful and intuitive.
+           My interests lie in Data Science, Data Analytics, and Machine Learning. I enjoy working with data, exploring patterns, asking 
+           meaningful questions and turning complex information into insights that can make a difference.
           </p>
 
           {/* Optional: Key Stats or Highlights */}
@@ -33,7 +32,7 @@ function About() {
               <p className="text-gray-600 text-sm font-medium">Projects Completed</p>
             </div>
             <div className="text-center">
-              <p className="text-3xl md:text-4xl font-bold text-gray-900 mb-2">2+</p>
+              <p className="text-3xl md:text-4xl font-bold text-gray-900 mb-2">1+</p>
               <p className="text-gray-600 text-sm font-medium">Years Experience</p>
             </div>
             <div className="text-center">
