@@ -1,36 +1,7 @@
 'use client'
 
 function Projects() {
-  const projects = [
-    {
-      title: "AI-Powered Analytics Dashboard",
-      description: "A comprehensive analytics platform that leverages machine learning to provide real-time insights and predictive analytics for data-driven decision making.",
-      tech: ["React", "Node.js", "MongoDB", "TensorFlow"],
-      link: "#",
-      image: "/projects/project-1.jpg"
-    },
-    {
-      title: "Full-Stack E-Commerce Platform",
-      description: "A scalable e-commerce solution built with modern technologies, featuring real-time inventory management, secure payments, and personalized user experiences.",
-      tech: ["Next.js", "TypeScript", "PostgreSQL", "Stripe"],
-      link: "#",
-      image: "/projects/project-2.jpg"
-    },
-    {
-      title: "Data Visualization Tool",
-      description: "An interactive data visualization platform that transforms complex datasets into intuitive, actionable insights with custom charts and real-time updates.",
-      tech: ["React", "D3.js", "Python", "FastAPI"],
-      link: "#",
-      image: "/projects/project-3.jpg"
-    },
-    {
-      title: "Machine Learning Model API",
-      description: "A production-ready API service that serves pre-trained ML models with high performance, scalability, and comprehensive monitoring for enterprise applications.",
-      tech: ["Python", "FastAPI", "PostgreSQL", "Docker"],
-      link: "#",
-      image: "/projects/project-4.jpg"
-    },
-  ];
+  const projects = [];
 
   return (
     <section id="projects" className="py-20 md:py-32 bg-white">
