@@ -1,18 +1,32 @@
 'use client'
 
 function Skills() {
-  const skills = [
-    { name: 'React', category: 'Frontend' },
-    { name: 'Next.js', category: 'Frontend' },
-    { name: 'TypeScript', category: 'Language' },
-    { name: 'Tailwind CSS', category: 'Frontend' },
-    { name: 'Node.js', category: 'Backend' },
-    { name: 'Python', category: 'Language' },
-    { name: 'mysql', category: 'Database' },
-    { name: 'HTML', category: 'Frontend' },
-     { name: 'JAVASCRIPT', category: 'Frontend' }
+ const skills = [
+  { name: 'Python', category: 'Programming' },
+  { name: 'SQL', category: 'Programming' },
 
-  ];
+  { name: 'Pandas', category: 'Data Science' },
+  { name: 'NumPy', category: 'Data Science' },
+  { name: 'Matplotlib', category: 'Data Science' },
+  { name: 'Seaborn', category: 'Data Science' },
+  { name: 'Statistical Analysis', category: 'Data Science' },
+  { name: 'Exploratory Data Analysis', category: 'Data Science' },
+
+  { name: 'Scikit-learn', category: 'Machine Learning' },
+  { name: 'TensorFlow', category: 'Machine Learning' },
+
+  { name: 'MySQL', category: 'Database' },
+  { name: 'SQLite', category: 'Database' },
+
+  { name: 'Excel', category: 'Data Analytics' },
+  { name: 'Power BI', category: 'Data Analytics' },
+
+  { name: 'Jupyter Notebook', category: 'Tools' },
+  { name: 'Google Colab', category: 'Tools' },
+  { name: 'Git', category: 'Tools' },
+  { name: 'GitHub', category: 'Tools' },
+  { name: 'VS Code', category: 'Tools' }
+];
 
   return (
     <section id="skills" className="py-20 md:py-32 bg-gray-50">
