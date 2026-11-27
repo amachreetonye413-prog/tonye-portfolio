@@ -57,7 +57,7 @@ function Contact() {
             Get a comprehensive overview of my professional experience and skills
           </p>
           <a
-            href="cv.pdf"
+            href="/AMACHREE_TAMUNOTONYE_CV.pdf"
             download="Tamunotonye_Amachree_CV.pdf"
             onClick={handleDownload}
             className={`inline-flex items-center justify-center bg-gray-900 text-white px-8 py-3 rounded-lg font-semibold hover:bg-gray-800 hover:shadow-lg transform hover:scale-105 transition-all duration-200 ${
