@@ -4,7 +4,6 @@ import Header from './Header'
 function About() {
   return (
     <>
-    <Header />
     <section id="about" className="py-20 md:py-32 bg-white">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Heading */}
